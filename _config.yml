@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:jamesramsay100@gmail.com
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jamesramsay100/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
