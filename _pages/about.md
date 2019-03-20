@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/data-and-connections_crop.jpg"
 ---
 
 ## Profile
